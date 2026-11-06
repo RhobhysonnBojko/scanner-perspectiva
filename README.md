@@ -1,6 +1,6 @@
 # Scanner de documentos com transformação perspectiva (OpenCV)
 
-Atividade 3 – Visão Computacional. A partir de uma foto de um documento tirada
+Atividade 3 – INFO7064 Tópicos em Processamento de Imagens (UFPR). A partir de uma foto de um documento tirada
 em ângulo, o programa encontra os 4 cantos da folha, calcula a homografia e gera
 uma versão "de cima", com aparência de documento escaneado.
 
